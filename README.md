@@ -12,3 +12,5 @@ https://github.com/CollinA7/run-buddy.
 
 ## Contribution
 Made with ❤️ by Collin
+
+# Run Buddy Inc.
